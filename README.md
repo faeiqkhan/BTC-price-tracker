@@ -1,7 +1,9 @@
 # Find Best Crypto to Invest
 
 A modern React application that helps investors identify the best cryptocurrency investment opportunities based on comprehensive market analysis. The app fetches real-time data from CoinGecko API and displays the top cryptocurrencies with the best long-term investment potential.
-
+## Live Demo
+[LINK]](https://btc-price-tracker-faeiqkhans-projects.vercel.app/)
+## Screenshot
 ![App Screenshot](screenshot.png)
 
 ## Features
